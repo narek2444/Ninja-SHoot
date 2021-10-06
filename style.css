@@ -1,0 +1,20 @@
+p{
+	margin-left: 510px;
+	background-color: #c0eb34;
+	font-size: 70px;
+	margin-right: 420px;
+	border-radius: 30px;
+	border-bottom-right-radius: 0px;
+	border-top-left-radius: 0px;
+	color: white;
+}
+body{
+	background-color: #34eb74;
+}
+a{
+	color: white;
+	font-size: 100px;
+	margin-left: 530px;
+	background-color: black;
+	border-radius: 20px;
+}
